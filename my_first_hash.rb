@@ -1,5 +1,5 @@
 def my_hash
-  hash = {ren => realist, stimpy => fantasy land}
+  myhash = {"ren" => "angry", "stimpy" => "happy"}
 
   
 end
